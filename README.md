@@ -1,6 +1,8 @@
 # DM-DE-Widerlegung der Grundmodelle  
 ## Eine strukturelle Neuinterpretation der Kosmologie
 
+> 📄 **[PDF herunterladen – DM-DE-Widerlegung-der-Grundmodelle.pdf](DM-DE-Widerlegung-der-Grundmodelle.pdf)**
+
 Dieses Repository dokumentiert eine vollständige, logisch konsistente Widerlegung der klassischen kosmologischen Modelle (Hubble, Friedmann, ΛCDM) und stellt eine neue Interpretation vor, die auf **lokaler Gravitation**, **Metrikvariation** und **diskreter Strukturphysik** basiert.  
 Die Grundlage bilden zwei eigenständige wissenschaftliche Arbeiten:
 
