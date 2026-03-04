@@ -16,13 +16,9 @@ Fehlinterpretationen.
 ## 2. Rotverschiebung bleibt gleich
 Die Rotverschiebung \( z \) ist definiert als:
 
-
-
-\[
+$$
 z = \frac{\lambda_{\text{beobachtet}} - \lambda_{\text{emittiert}}}{\lambda_{\text{emittiert}}}
-\]
-
-
+$$
 
 Diese Größe ist:
 
@@ -52,13 +48,9 @@ Die Interpretation ist falsch.
 ## 4. Warum Geschwindigkeit ≠ z
 Die moderne Kosmologie interpretiert Rotverschiebung als Doppler-Effekt:
 
-
-
-\[
+$$
 v \approx z \cdot c
-\]
-
-
+$$
 
 Diese Gleichung ist nur lokal gültig, nicht global.
 
@@ -72,26 +64,18 @@ Gründe:
 
 Konsequenz:
 
-
-
-\[
+$$
 z \ \text{misst nicht die Geschwindigkeit, sondern die Metrikvariation}
-\]
-
-
+$$
 
 ---
 
 ## 5. Warum Entfernung ≠ z
 Die Standardkosmologie nutzt Rotverschiebung als Distanzmaß:
 
-
-
-\[
+$$
 D \approx \frac{c}{H_0} \cdot z
-\]
-
-
+$$
 
 Diese Gleichung ist falsch, weil:
 
@@ -110,26 +94,18 @@ ist die Distanz nicht proportional zu \( z \).
 
 Konsequenz:
 
-
-
-\[
+$$
 D \neq f(z)
-\]
-
-
+$$
 
 ---
 
 ## 6. Warum Expansion ≠ z
 Die moderne Kosmologie setzt voraus:
 
-
-
-\[
+$$
 z \Rightarrow \text{Expansion}
-\]
-
-
+$$
 
 Das ist falsch.
 
@@ -146,13 +122,9 @@ Keiner dieser Effekte hat etwas mit Expansion zu tun.
 
 Konsequenz:
 
-
-
-\[
+$$
 z \ \text{ist kein Beweis für Expansion}
-\]
-
-
+$$
 
 ---
 
@@ -171,13 +143,9 @@ Die moderne Kosmologie „repariert“ diese Fehler durch:
 
 Beides sind Artefakte einer falschen Ableitungskette:
 
-
-
-\[
+$$
 z \rightarrow v \rightarrow D \rightarrow H_0 \rightarrow \Omega_m, \Omega_\Lambda
-\]
-
-
+$$
 
 Wenn der erste Schritt falsch ist, sind alle folgenden Schritte falsch.
 
