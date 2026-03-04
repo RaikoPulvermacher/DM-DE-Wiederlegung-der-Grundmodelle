@@ -33,5 +33,21 @@ Durch die Trennung von lokalem und globalem c, die Berücksichtigung strukturell
 und die Anwendung des TdR-Modells lassen sich reale Dichteverteilungen und Gravitationsfelder direkt 
 aus bestehenden Messdaten rekonstruieren – ohne zusätzliche hypothetische Komponenten. Dieses Projekt 
 liefert damit einen konsistenten theoretischen Rahmen, der die moderne Kosmologie grundlegend 
+
+Zusätzlich zeigt die Analyse lokaler Gravitationsdynamik, dass nahe Galaxien 
+Rotverschiebungen aufweisen können, die nicht durch kosmologische Expansion, 
+sondern durch gravitative Beschleunigungsprozesse entstehen. 
+Analog zu Swing-By-Manövern in der Raumfahrt können Galaxien durch die 
+Wechselwirkung mit massereichen Clustern oder Filamenten beschleunigt werden, 
+wodurch eine Rotverschiebung entsteht, die fälschlicherweise als 
+„beschleunigte Expansion“ interpretiert wird. 
+
+Da die Menschheit das Universum erst seit wenigen Jahrhunderten beobachtet – 
+ein vernachlässigbarer Zeitraum im Vergleich zu kosmischen Zeitskalen – 
+werden dynamische Prozesse wie gravitative Katapultmechanismen, 
+Resonanzzyklen und strukturelle Metrikänderungen nicht erfasst. 
+Die Annahme, dass beobachtete Rotverschiebungen ausschließlich auf 
+Expansion zurückzuführen seien, ist daher unbegründet und führt zu 
+systematischen Fehlinterpretationen.
 korrigiert, ohne die etablierte Physik zu verletzen.
 
