@@ -1,7 +1,7 @@
 # Ableitungsfehler in der modernen Kosmologie
 
 ## 1. Einleitung
-Rotverschiebung \( z \) und Blauverschiebung sind direkte, experimentell robuste Messwerte. 
+Rotverschiebung $z$ und Blauverschiebung sind direkte, experimentell robuste Messwerte. 
 Sie entstehen durch Veränderungen der Wellenlänge von Licht, unabhängig davon, wie diese 
 Veränderungen interpretiert werden. Die Messung selbst ist korrekt. Fehler entstehen erst dann, 
 wenn aus diesen Messwerten physikalische Größen wie Geschwindigkeit, Entfernung oder Expansion 
@@ -14,7 +14,7 @@ Fehlinterpretationen.
 ---
 
 ## 2. Rotverschiebung bleibt gleich
-Die Rotverschiebung \( z \) ist definiert als:
+Die Rotverschiebung $z$ ist definiert als:
 
 $$
 z = \frac{\lambda_{\text{beobachtet}} - \lambda_{\text{emittiert}}}{\lambda_{\text{emittiert}}}
@@ -58,7 +58,7 @@ Gründe:
 
 - Der Doppler-Effekt setzt flache Metrik voraus.  
 - Kosmologische Strukturen (Voids, Filamente, Cluster) verändern die Metrik.  
-- \( c_{\text{eff}} \) ist strukturell variabel.  
+- $c_{\text{eff}}$ ist strukturell variabel.  
 - Gravitationspotentiale erzeugen Rotverschiebung ohne Bewegung.  
 - Swing-By-Effekte erzeugen Rotverschiebung ohne Expansion.
 
@@ -79,7 +79,7 @@ $$
 
 Diese Gleichung ist falsch, weil:
 
-- sie globales \( c \) voraussetzt  
+- sie globales $c$ voraussetzt  
 - sie Homogenität voraussetzt  
 - sie konstante Metrik voraussetzt  
 - sie keine strukturellen Unterschiede berücksichtigt  
@@ -90,7 +90,7 @@ In einem Universum mit:
 - Clustern (komprimierte Metrik)  
 - Filamenten (anisotrope Metrik)  
 
-ist die Distanz nicht proportional zu \( z \).
+ist die Distanz nicht proportional zu $z$.
 
 Konsequenz:
 
@@ -116,7 +116,7 @@ Rotverschiebung entsteht durch:
 - strukturelle Unterschiede  
 - lokale Beschleunigungsprozesse (Swing-By)  
 - unterschiedliche Lichtlaufzeiten  
-- variable effektive Lichtgeschwindigkeit \( c_{\text{eff}} \)
+- variable effektive Lichtgeschwindigkeit $c_{\text{eff}}$
 
 Keiner dieser Effekte hat etwas mit Expansion zu tun.
 
@@ -129,7 +129,7 @@ $$
 ---
 
 ## 7. Warum DM/DE aus Ableitungsfehlern entstehen
-Wenn Geschwindigkeit, Entfernung und Expansion falsch aus \( z \) abgeleitet werden, entstehen:
+Wenn Geschwindigkeit, Entfernung und Expansion falsch aus $z$ abgeleitet werden, entstehen:
 
 - falsche Dichteparameter  
 - falsche Geschwindigkeiten  
@@ -154,7 +154,7 @@ Wenn der erste Schritt falsch ist, sind alle folgenden Schritte falsch.
 ## 8. Schlussfolgerung
 Rot- und Blauverschiebung sind korrekte Messwerte, doch ihre Interpretation im Rahmen der 
 Standardkosmologie ist fehlerhaft. Die Ableitung von Geschwindigkeit, Entfernung und Expansion aus 
-\( z \) setzt globale Homogenität und konstantes globales \( c \) voraus – Annahmen, die physikalisch 
+$z$ setzt globale Homogenität und konstantes globales $c$ voraus – Annahmen, die physikalisch 
 nicht haltbar sind. Die Konzepte „Dunkle Materie“ und „Dunkle Energie“ entstehen als direkte Folge 
 dieser Ableitungsfehler und verschwinden, sobald die strukturelle Variabilität der Raumzeit korrekt 
 berücksichtigt wird.

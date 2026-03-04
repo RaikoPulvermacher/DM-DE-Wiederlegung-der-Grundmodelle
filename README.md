@@ -21,8 +21,8 @@ Dieses Repository überträgt diese Erkenntnisse auf die Kosmologie.
   Rotverschiebung misst Metrikvariation, nicht Geschwindigkeit oder Expansion.
 
 - **Metrikvariation statt Dunkler Energie**  
-  Voids → gestreckte Metrik → \(c_{\text{eff}} > c\)  
-  Cluster → komprimierte Metrik → \(c_{\text{eff}} < c\)
+  Voids → gestreckte Metrik → $c_{\text{eff}} > c$  
+  Cluster → komprimierte Metrik → $c_{\text{eff}} < c$
 
 - **Reale Dichteverteilungen statt Dunkler Materie**  
   Die „fehlende Masse“ entsteht durch falsche Mittelwertbildung, nicht durch unsichtbare Materie.
@@ -73,7 +73,7 @@ Sie zeigen:
 
 - Void vs. Cluster  
 - Metrikstreckung vs. Metrikkompression  
-- \(c_{\text{eff}}/c\) als Funktion der relativen Distanz  
+- $c_{\text{eff}}/c$ als Funktion der relativen Distanz  
 
 Diese Diagramme sind zentrale Beweisstücke der neuen Interpretation.
 
@@ -130,11 +130,11 @@ Urheber: Raiko Pulvermacher  
 
  E-Mail: Pulvermacher.Raiko@web.de
 
-ORCID ID: 0009-0003-9431-1001
+ORCID ID: [0009-0003-9431-1001](https://orcid.org/0009-0003-9431-1001)
 
-Open Science Framework (OSF): py42t
+Open Science Framework (OSF): [pt42t](https://osf.io/pt42t/)
 
-X/Twiter: Raiko Pulvermacher
+X/Twitter: Raiko Pulvermacher
 
 TikTok: Raiko Pulvermacher
 
