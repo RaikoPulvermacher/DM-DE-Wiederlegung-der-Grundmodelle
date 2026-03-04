@@ -136,3 +136,7 @@ und erzeugt dadurch systematische Fehlinterpretationen, die zu den Konzepten
 „Dunkle Materie“ und „Dunkle Energie“ führen. Eine korrekte Behandlung der 
 Raumstruktur eliminiert diese Artefakte und ermöglicht eine physikalisch 
 konsistente Beschreibung des Universums.
+
+---
+
+[← Zurück zur README](README.md)
