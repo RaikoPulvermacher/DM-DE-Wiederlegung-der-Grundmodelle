@@ -17,15 +17,15 @@ In Voids ist die Gravitation minimal. Dadurch gilt:
 
 Formal:
 
-\[
+$$
 c_{\text{eff}} = \frac{\text{metrische Distanz}}{\text{Lichtlaufzeit}}
-\]
+$$
 
 Wenn die metrische Distanz durch Metrikstreckung größer wird, während die Lichtlaufzeit nahezu gleich bleibt, ergibt sich:
 
-\[
+$$
 c_{\text{eff}} > c_{\text{local}}
-\]
+$$
 
 Dies ist kein physikalischer Verstoß, sondern eine direkte Folge der Metrikstruktur.
 
@@ -41,9 +41,9 @@ In Voids ist das Gravitationspotential so gering, dass:
 
 Die Konsequenz:
 
-\[
+$$
 \text{Licht braucht weniger Zeit pro Metrikeinheit} \Rightarrow c_{\text{eff}} \uparrow
-\]
+$$
 
 ---
 
