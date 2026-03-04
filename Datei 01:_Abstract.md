@@ -47,3 +47,4 @@ bestehenden Messdaten rekonstruieren – ohne zusätzliche hypothetische Kompone
 liefert damit einen konsistenten theoretischen Rahmen, der die moderne Kosmologie grundlegend 
 korrigiert, ohne die etablierte Physik zu verletzen.
 
+Pulvermacher, R. (16.12.2025). Tensor der Realitäten (TdR). Zenodo. https://doi.org/10.5281/zenodo.18727529
