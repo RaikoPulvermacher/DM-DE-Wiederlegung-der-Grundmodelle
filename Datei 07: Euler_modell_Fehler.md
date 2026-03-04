@@ -76,13 +76,9 @@ Wenn man ein Kontinuumsmodell auf ein diskretes Universum anwendet, entstehen zw
 
 Diese Größen sind keine physikalischen Entdeckungen, sondern:
 
-
-
 \[
 \text{Euler-Artefakte}
 \]
-
-
 
 Sie entstehen, weil das Modell falsch ist – nicht, weil das Universum mysteriöse Komponenten enthält.
 
@@ -110,3 +106,7 @@ Euler ist ein mathematisches Werkzeug – kein physikalisches Gesetz.
 
 ## 7. Schlussfolgerung
 Das Euler-Modell ist für kosmologische Anwendungen ungeeignet, weil es Kontinuität, Homogenität und stetige Ableitungen voraussetzt, die im realen Universum nicht existieren. Die Paradoxien, die daraus entstehen – fehlende Masse, scheinbare Beschleunigung, Divergenzen – sind identisch mit den Paradoxien, die in Zins‑Zins‑Modellen und anderen emergenten Wachstumsmodellen auftreten. Die Arbeiten *TdR* und *Energie-Revolution 8911* zeigen, dass diese Paradoxien strukturelle Artefakte des Euler-Modells sind. In einer diskreten, strukturellen Raumzeit verschwinden DM und DE vollständig.
+
+---
+
+[← Zurück zur README](README.md)

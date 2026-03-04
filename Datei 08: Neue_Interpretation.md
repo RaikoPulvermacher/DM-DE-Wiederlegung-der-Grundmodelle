@@ -85,3 +85,7 @@ Die neue Interpretation ersetzt:
 Rotverschiebung misst Metrik, nicht Geschwindigkeit.  
 Hubble, Friedmann, DM und DE sind Artefakte eines falschen, eulerbasierten Kontinuumsmodells.  
 Die Raumzeit ist strukturell, diskret und lokal – und wird mit jeder neu erkannten strukturellen Lichtgeschwindigkeit schärfer „aufgelöst“.
+
+---
+
+[← Zurück zur README](README.md)

@@ -1,4 +1,4 @@
-## Abstract
+# Abstract
 
 Dieses Projekt entstand aus der theoretischen Entwicklung des Modells Tensor der Realitäten (TdR) 
 (https://doi.org/10.5281/zenodo.18727529), in dem die Beziehung zwischen Wahrnehmung, Licht und 
@@ -48,3 +48,7 @@ liefert damit einen konsistenten theoretischen Rahmen, der die moderne Kosmologi
 korrigiert, ohne die etablierte Physik zu verletzen.
 
 Pulvermacher, R. (16.12.2025). Tensor der Realitäten (TdR). Zenodo. https://doi.org/10.5281/zenodo.18727529
+
+---
+
+[← Zurück zur README](README.md)

@@ -8,13 +8,9 @@ Der Hubble-Parameter \(H_0\) gilt in der modernen Kosmologie als fundamentale Gr
 ## 2. Hubble basiert auf der Annahme eines global konstanten c
 Die Hubble-Formel:
 
-
-
 \[
 v = H_0 \cdot D
 \]
-
-
 
 setzt voraus:
 
@@ -26,13 +22,9 @@ Diese Annahmen sind falsch.
 
 Aus Datei 01 folgt:
 
-
-
 \[
 c_{\text{local}} = \text{konstant}, \quad c_{\text{eff}} = \text{strukturell variabel}
 \]
-
-
 
 Wenn \(c_{\text{eff}}\) in Voids größer und in Clustern kleiner ist, dann gilt:
 
@@ -61,13 +53,9 @@ Dies widerspricht allen Beobachtungen:
 
 Wenn die Metrik nicht homogen ist, dann ist die Beziehung:
 
-
-
 \[
 z \propto D
 \]
-
-
 
 nicht gültig.
 
@@ -108,13 +96,9 @@ Damit ist die Hubble-Beziehung kein physikalischer Zusammenhang, sondern ein Art
 
 Formal:
 
-
-
 \[
 z \rightarrow \text{Metrikvariation}, \quad \text{nicht Expansion}
 \]
-
-
 
 Wenn die Ursache falsch ist, ist die abgeleitete Größe bedeutungslos.
 
@@ -132,13 +116,9 @@ Wenn das Hubble-Modell zusammenbricht, folgen:
 
 Die gesamte moderne Kosmologie basiert auf einer falschen Ableitungskette:
 
-
-
 \[
 z \rightarrow v \rightarrow D \rightarrow H_0 \rightarrow \text{Expansion}
 \]
-
-
 
 Wenn der erste Schritt falsch ist, sind alle folgenden Schritte falsch.
 
@@ -146,3 +126,7 @@ Wenn der erste Schritt falsch ist, sind alle folgenden Schritte falsch.
 
 ## 7. Schlussfolgerung
 Das Hubble-Modell ist kein Naturgesetz, sondern ein Beobachtungsartefakt, das aus der falschen Annahme eines global konstanten c und der Homogenisierung einer strukturell variablen Raumzeit entsteht. Sobald Voids, Cluster und Metrikvariation korrekt berücksichtigt werden, verschwindet die scheinbare Linearität zwischen Rotverschiebung und Distanz vollständig. Der Hubble-Parameter verliert damit jede physikalische Bedeutung.
+
+---
+
+[← Zurück zur README](README.md)

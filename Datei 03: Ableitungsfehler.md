@@ -158,3 +158,7 @@ Standardkosmologie ist fehlerhaft. Die Ableitung von Geschwindigkeit, Entfernung
 nicht haltbar sind. Die Konzepte „Dunkle Materie“ und „Dunkle Energie“ entstehen als direkte Folge 
 dieser Ableitungsfehler und verschwinden, sobald die strukturelle Variabilität der Raumzeit korrekt 
 berücksichtigt wird.
+
+---
+
+[← Zurück zur README](README.md)
