@@ -1,7 +1,7 @@
 # Fehleranalyse des Hubble-Modells
 
 ## 1. Einleitung
-Der Hubble-Parameter \(H_0\) gilt in der modernen Kosmologie als fundamentale Größe, die die Expansionsrate des Universums beschreibt. Seine Herleitung basiert jedoch auf Annahmen, die weder physikalisch noch strukturell haltbar sind. Dieses Kapitel zeigt, warum das Hubble-Modell kein Naturgesetz ist, sondern ein Beobachtungsartefakt, das aus falschen Ableitungen und unzulässigen Vereinfachungen entsteht.
+Der Hubble-Parameter $H_0$ gilt in der modernen Kosmologie als fundamentale Größe, die die Expansionsrate des Universums beschreibt. Seine Herleitung basiert jedoch auf Annahmen, die weder physikalisch noch strukturell haltbar sind. Dieses Kapitel zeigt, warum das Hubble-Modell kein Naturgesetz ist, sondern ein Beobachtungsartefakt, das aus falschen Ableitungen und unzulässigen Vereinfachungen entsteht.
 
 ---
 
@@ -26,7 +26,7 @@ $$
 c_{\text{local}} = \text{konstant}, \quad c_{\text{eff}} = \text{strukturell variabel}
 $$
 
-Wenn \(c_{\text{eff}}\) in Voids größer und in Clustern kleiner ist, dann gilt:
+Wenn $c_{\text{eff}}$ in Voids größer und in Clustern kleiner ist, dann gilt:
 
 - Rotverschiebung misst Metrikvariation, nicht Geschwindigkeit  
 - Distanz ist nicht proportional zu z  
@@ -90,7 +90,7 @@ Die scheinbare Linearität zwischen Rotverschiebung und Distanz entsteht durch:
 - Mittelwertbildung über inhomogene Strukturen  
 - Ignorieren von Metrikvariation  
 - Ignorieren von Swing-By-Beschleunigungen  
-- Ignorieren von Voids mit \(c_{\text{eff}} > c\)  
+- Ignorieren von Voids mit $c_{\text{eff}} > c$  
 
 Damit ist die Hubble-Beziehung kein physikalischer Zusammenhang, sondern ein Artefakt der Messinterpretation.
 

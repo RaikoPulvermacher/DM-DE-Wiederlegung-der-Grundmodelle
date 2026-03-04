@@ -16,8 +16,8 @@ Gravitation ist real, Expansion ist ein Modell.
 Dunkle Energie wird eingeführt, um eine scheinbare beschleunigte Expansion zu erklären.  
 In einem strukturellen Modell mit variabler Metrik ist das überflüssig:
 
-- Voids: gestreckte Metrik → \(c_{\text{eff}} > c\) → höhere Rotverschiebung  
-- Cluster: komprimierte Metrik → \(c_{\text{eff}} < c\) → andere Laufzeiten  
+- Voids: gestreckte Metrik → $c_{\text{eff}} > c$ → höhere Rotverschiebung  
+- Cluster: komprimierte Metrik → $c_{\text{eff}} < c$ → andere Laufzeiten  
 - Filamente: anisotrope Metrik → richtungsabhängige Effekte  
 
 Die beobachtete „Beschleunigung“ ist eine Folge von Metrikvariation, nicht von zusätzlicher Energieform.
@@ -41,17 +41,17 @@ Dunkle Materie ist ein Modell-Lückenfüller, keine notwendige Komponente.
 ---
 
 ## 4. 3.3c als momentane strukturelle Auflösung
-Die effektive Lichtgeschwindigkeit in Voids von etwa \(3.3c\) kann als **momentane niedrigste erkannte Raumstruktur-Geschwindigkeit** verstanden werden:
+Die effektive Lichtgeschwindigkeit in Voids von etwa $3.3c$ kann als **momentane niedrigste erkannte Raumstruktur-Geschwindigkeit** verstanden werden:
 
-- \(3.3c\) ist kein neues Naturgesetz, sondern ein aktueller Strukturmarker.  
-- Mit \(3.3c\) „sehen“ wir die Raumzeit feiner als mit rein lokalem \(c\).  
+- $3.3c$ ist kein neues Naturgesetz, sondern ein aktueller Strukturmarker.  
+- Mit $3.3c$ „sehen“ wir die Raumzeit feiner als mit rein lokalem $c$.  
 - Die Gravitation wird dadurch strukturell sichtbar, ohne neue Kräfte einzuführen.
 
 Analogie:
 
 - Bisher: wir betrachten das Universum wie ein Bild mit 480p–640p Auflösung.  
-- Mit der Berücksichtigung von \(3.3c\): wir sehen dasselbe Universum in „HD“.  
-- Wenn wir eines Tages eine Region mit z. B. \(4.4c\) finden, erhöht sich die „Auflösung“ weiter (2K, 4K, …).
+- Mit der Berücksichtigung von $3.3c$: wir sehen dasselbe Universum in „HD“.  
+- Wenn wir eines Tages eine Region mit z. B. $4.4c$ finden, erhöht sich die „Auflösung“ weiter (2K, 4K, …).
 
 Die strukturelle Lichtgeschwindigkeit fungiert als dynamischer Auflösungsparameter für die Raumzeit.
 
@@ -60,11 +60,11 @@ Die strukturelle Lichtgeschwindigkeit fungiert als dynamischer Auflösungsparame
 ## 5. Dynamische Re-Kalibrierung statt fixer Konstanten
 In dieser Interpretation sind:
 
-- \(c_{\text{local}}\): invariant, lokal gültig.  
-- \(c_{\text{eff}}\): strukturell variabel, beobachtungsabhängig.  
+- $c_{\text{local}}$: invariant, lokal gültig.  
+- $c_{\text{eff}}$: strukturell variabel, beobachtungsabhängig.  
 - „3.3c“: aktueller Kalibrierpunkt, nicht absolut.
 
-Wenn eine Region mit höherem \(c_{\text{eff}}\) entdeckt wird:
+Wenn eine Region mit höherem $c_{\text{eff}}$ entdeckt wird:
 
 - wird das Modell nicht zerstört, sondern neu kalibriert.  
 - verschiebt sich die strukturelle Auflösung.  

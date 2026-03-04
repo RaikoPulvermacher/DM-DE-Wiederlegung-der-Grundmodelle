@@ -40,13 +40,13 @@ $$
 
 Diese Annahme ist empirisch falsch:
 
-- Voids haben gestreckte Metrik → \(c_{\text{eff}} > c\)  
-- Cluster haben komprimierte Metrik → \(c_{\text{eff}} < c\)  
+- Voids haben gestreckte Metrik → $c_{\text{eff}} > c$  
+- Cluster haben komprimierte Metrik → $c_{\text{eff}} < c$  
 - Filamente erzeugen anisotrope Metrik  
 - lokale Gravitationsfelder dominieren die Struktur  
 - die Materieverteilung ist fraktal bis zu hunderten Mpc  
 
-Wenn die Metrik nicht homogen ist, dann ist der Skalenfaktor \(a(t)\) nicht global definierbar.
+Wenn die Metrik nicht homogen ist, dann ist der Skalenfaktor $a(t)$ nicht global definierbar.
 
 Damit verlieren die Friedmann-Gleichungen ihre physikalische Bedeutung.
 

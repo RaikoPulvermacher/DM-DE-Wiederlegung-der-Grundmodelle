@@ -1,9 +1,9 @@
 # Void-Effekt: Warum Voids effektiv > c zeigen
 
 ## 1. Einleitung
-Voids sind großräumige Regionen extrem geringer Materiedichte. Sie enthalten kaum Galaxien, kaum Gas und nur minimale Gravitationspotentiale. In solchen Regionen ist die Raumzeitmetrik weniger gekrümmt und damit strukturell „gestreckt“. Diese Metrikstreckung führt dazu, dass Licht über große Distanzen effektiv schneller erscheint, obwohl die lokale Lichtgeschwindigkeit \( c_{\text{local}} \) unverändert bleibt.
+Voids sind großräumige Regionen extrem geringer Materiedichte. Sie enthalten kaum Galaxien, kaum Gas und nur minimale Gravitationspotentiale. In solchen Regionen ist die Raumzeitmetrik weniger gekrümmt und damit strukturell „gestreckt“. Diese Metrikstreckung führt dazu, dass Licht über große Distanzen effektiv schneller erscheint, obwohl die lokale Lichtgeschwindigkeit $c_{\text{local}}$ unverändert bleibt.
 
-Dieses Kapitel zeigt, warum Voids effektive Lichtgeschwindigkeiten von etwa \( 3.3c \) erzeugen können und warum dies keine Verletzung der Relativitätstheorie darstellt.
+Dieses Kapitel zeigt, warum Voids effektive Lichtgeschwindigkeiten von etwa $3.3c$ erzeugen können und warum dies keine Verletzung der Relativitätstheorie darstellt.
 
 ---
 
