@@ -34,9 +34,9 @@ Eine Gleichung, die auf Mittelwerten basiert, kann keine lokalen oder strukturel
 ## 3. Friedmann setzt Homogenität voraus
 Die zentrale Voraussetzung der Friedmann-Gleichungen ist das kosmologische Prinzip:
 
-\[
+$$
 \text{Das Universum ist homogen und isotrop.}
-\]
+$$
 
 Diese Annahme ist empirisch falsch:
 
@@ -69,9 +69,9 @@ Beide entstehen nicht aus Beobachtungen, sondern aus der falschen Anwendung der 
 
 Formal:
 
-\[
+$$
 \text{Fehler in der Homogenitätsannahme} \Rightarrow \text{Fehler in der Energiebilanz} \Rightarrow \text{Einführung von DM/DE}
-\]
+$$
 
 DM/DE sind mathematische Lückenfüller, keine physikalischen Entdeckungen.
 
@@ -80,9 +80,9 @@ DM/DE sind mathematische Lückenfüller, keine physikalischen Entdeckungen.
 ## 5. Friedmann ignoriert strukturelle Metrikvariation
 Die Gleichungen setzen voraus:
 
-\[
+$$
 ds^2 = -c^2 dt^2 + a(t)^2 \, d\Sigma^2
-\]
+$$
 
 Dies bedeutet:
 
